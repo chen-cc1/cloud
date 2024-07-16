@@ -4,50 +4,50 @@
 
 ### 全局快捷键
 
-| 快捷键                          | 说明                  |
-| ------------------------------- | --------------------- |
-| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>，<kbd>F1</kbd> | 显示命令面板          |
-| <kbd>Ctrl</kbd> + <kbd>P</kbd>             | 快速打开，转到文件... |
-| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>N</kbd>     | 新建窗口/实例         |
-| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>W</kbd>     | 关闭窗口/实例         |
-| <kbd>Ctrl</kbd> + <kbd>,</kbd>             | 编辑器设置            |
-| <kbd>Ctrl</kbd> + <kbd>K</kbd>，<kbd>Ctrl</kbd> + <kbd>S</kbd>   | 键盘快捷键            |
+| 快捷键                                                       | 说明                      |
+| ------------------------------------------------------------ | ------------------------- |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>，<kbd>F1</kbd> | 显示命令面板              |
+| <kbd>Ctrl</kbd> + <kbd>P</kbd>                               | ==快速打开，转到文件...== |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>N</kbd>            | ==新建窗口/实例==         |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>W</kbd>            | 关闭窗口/实例             |
+| <kbd>Ctrl</kbd> + <kbd>,</kbd>                               | 编辑器设置                |
+| <kbd>Ctrl</kbd> + <kbd>K</kbd>，<kbd>Ctrl</kbd> + <kbd>S</kbd> | 键盘快捷键                |
 
 ### 基本编辑
 
-| 快捷键                                                       | 说明               |
-| ------------------------------------------------------------ | ------------------ |
-| <kbd>Ctrl</kbd> + <kbd>X</kbd>                               | 剪切一行(未选取时) |
-| <kbd>Ctrl</kbd> + <kbd>C</kbd>                               | 复制一行(未选取时) |
-| <kbd>Alt</kbd> + <kbd>↑</kbd>                                | 向上移动行         |
-| <kbd>Alt</kbd> + <kbd>↓</kbd>                                | 向下移动行         |
-| <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>↑</kbd>             | 在上面复制当前行   |
-| <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>↓</kbd>             | 在下面复制当前行   |
-| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>K</kbd>            | 删除一行           |
-| <kbd>Ctrl</kbd> + <kbd>Enter</kbd>                           | 在下面插入行       |
-| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Enter</kbd>        | 在上方插入行       |
-| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd> \ </kbd>          | 跳转到匹配的括号   |
-| <kbd>Ctrl</kbd> + <kbd>]</kbd>                               | 增加缩进           |
-| <kbd>Ctrl</kbd> + <kbd>[</kbd>                               | 减少缩进           |
-| <kbd>Home</kbd>                                              | 转到行首           |
-| <kbd>End</kbd>                                               | 转到行尾           |
-| <kbd>Ctrl</kbd> + <kbd>Home</kbd>                            | 转到文件开头       |
-| <kbd>Ctrl</kbd> + <kbd>End</kbd>                             | 转到文件末尾       |
-| <kbd>Ctrl</kbd> + <kbd>↑</kbd>                               | 向上滚动行         |
-| <kbd>Ctrl</kbd> + <kbd>↓</kbd>                               | 向下滚动行         |
-| <kbd>Alt</kbd> + <kbd>PgUp</kbd>                             | 向上滚动页面       |
-| <kbd>Alt</kbd> + <kbd>PgDn</kbd>                             | 向下滚动页面       |
-| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>[</kbd>            | 折叠区域           |
-| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>]</kbd>            | 展开区域           |
-| <kbd>Ctrl</kbd> + <kbd>K</kbd>，<kbd>Ctrl</kbd> + <kbd>[</kbd> | 折叠所有子区域     |
-| <kbd>Ctrl</kbd> + <kbd>K</kbd>，<kbd>Ctrl</kbd> + <kbd>]</kbd> | 展开所有子区域     |
-| <kbd>Ctrl</kbd> + <kbd>K</kbd>，<kbd>Ctrl</kbd> + <kbd>0</kbd> | 折叠所有区域       |
-| <kbd>Ctrl</kbd> + <kbd>K</kbd>，<kbd>Ctrl</kbd> + <kbd>J</kbd> | 展开所有区域       |
-| <kbd>Ctrl</kbd> + <kbd>K</kbd>，<kbd>Ctrl</kbd> + <kbd>C</kbd> | 添加行注释         |
-| <kbd>Ctrl</kbd> + <kbd>K</kbd>，<kbd>Ctrl</kbd> + <kbd>U</kbd> | 删除行注释         |
-| <kbd>Ctrl</kbd> + <kbd> / </kbd>                             | 切换行注释         |
-| <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>A</kbd>             | 切换块注释         |
-| <kbd>Alt</kbd> + <kbd>Z</kbd>                                | 切换自动换行       |
+| 快捷键                                                       | 说明                 |
+| ------------------------------------------------------------ | -------------------- |
+| <kbd>Ctrl</kbd> + <kbd>X</kbd>                               | 剪切一行(未选取时)   |
+| <kbd>Ctrl</kbd> + <kbd>C</kbd>                               | 复制一行(未选取时)   |
+| <kbd>Alt</kbd> + <kbd>↑</kbd>                                | ==向上移动行==       |
+| <kbd>Alt</kbd> + <kbd>↓</kbd>                                | ==向下移动行==       |
+| <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>↑</kbd>             | ==在上面复制当前行== |
+| <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>↓</kbd>             | ==在下面复制当前行== |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>K</kbd>            | ==删除一行==         |
+| <kbd>Ctrl</kbd> + <kbd>Enter</kbd>                           | ==在下面插入行==     |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Enter</kbd>        | ==在上方插入行==     |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd> \ </kbd>          | ==跳转到匹配的括号== |
+| <kbd>Ctrl</kbd> + <kbd>]</kbd>                               | ==增加缩进==         |
+| <kbd>Ctrl</kbd> + <kbd>[</kbd>                               | ==减少缩进==         |
+| <kbd>Home</kbd>                                              | ==转到行首==         |
+| <kbd>End</kbd>                                               | ==转到行尾==         |
+| <kbd>Ctrl</kbd> + <kbd>Home</kbd>                            | ==转到文件开头==     |
+| <kbd>Ctrl</kbd> + <kbd>End</kbd>                             | ==转到文件末尾==     |
+| <kbd>Ctrl</kbd> + <kbd>↑</kbd>                               | ==向上滚动行==       |
+| <kbd>Ctrl</kbd> + <kbd>↓</kbd>                               | ==向下滚动行==       |
+| <kbd>Alt</kbd> + <kbd>PgUp</kbd>                             | 向上滚动页面         |
+| <kbd>Alt</kbd> + <kbd>PgDn</kbd>                             | 向下滚动页面         |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>[</kbd>            | ==折叠区域==         |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>]</kbd>            | ==展开区域==         |
+| <kbd>Ctrl</kbd> + <kbd>K</kbd>，<kbd>Ctrl</kbd> + <kbd>[</kbd> | ==折叠所有子区域==   |
+| <kbd>Ctrl</kbd> + <kbd>K</kbd>，<kbd>Ctrl</kbd> + <kbd>]</kbd> | ==展开所有子区域==   |
+| <kbd>Ctrl</kbd> + <kbd>K</kbd>，<kbd>Ctrl</kbd> + <kbd>0</kbd> | ==折叠所有区域==     |
+| <kbd>Ctrl</kbd> + <kbd>K</kbd>，<kbd>Ctrl</kbd> + <kbd>J</kbd> | ==展开所有区域==     |
+| <kbd>Ctrl</kbd> + <kbd>K</kbd>，<kbd>Ctrl</kbd> + <kbd>C</kbd> | 添加行注释           |
+| <kbd>Ctrl</kbd> + <kbd>K</kbd>，<kbd>Ctrl</kbd> + <kbd>U</kbd> | 删除行注释           |
+| <kbd>Ctrl</kbd> + <kbd> / </kbd>                             | ==切换行注释==       |
+| <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>A</kbd>             | ==切换块注释==       |
+| <kbd>Alt</kbd> + <kbd>Z</kbd>                                | 切换自动换行         |
 
 ### 导航
 
@@ -55,14 +55,14 @@
 | --------------------------------------------------- | ---------------------- |
 | <kbd>Ctrl</kbd> + <kbd>T</kbd>                      | 显示所有符号           |
 | <kbd>Ctrl</kbd> + <kbd>G</kbd>                      | 显示所有符号           |
-| <kbd>Ctrl</kbd> + <kbd>P</kbd>                      | 转到文件...            |
-| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>O</kbd>   | 转到符号...            |
+| <kbd>Ctrl</kbd> + <kbd>P</kbd>                      | ==转到文件...==        |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>O</kbd>   | ==转到符号...==        |
 | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>M</kbd>   | 显示问题面板           |
 | <kbd>F8</kbd>                                       | 转到下一个错误或警告   |
 | <kbd>Shift</kbd> + <kbd>F8</kbd>                    | 转到上一个错误或警告   |
 | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Tab</kbd> | 浏览编辑器组的历史记录 |
-| <kbd>Alt</kbd> + <kbd>←</kbd>                       | 后退                   |
-| <kbd>Alt</kbd> + <kbd>→</kbd>                       | 前进                   |
+| <kbd>Alt</kbd> + <kbd>←</kbd>                       | ==后退==               |
+| <kbd>Alt</kbd> + <kbd>→</kbd>                       | ==前进==               |
 | <kbd>Ctrl</kbd> + <kbd>M</kbd>                      | 切换标签可移动焦点     |
 
 ### 查找 & 替换
@@ -71,9 +71,9 @@
 | ------------------------------------------------------------ | -------------------------------- |
 | <kbd>Ctrl</kbd> + <kbd>F</kbd>                               | 查找                             |
 | <kbd>Ctrl</kbd> + <kbd>H</kbd>                               | 替换                             |
-| <kbd>F3</kbd>                                                | 查找下一个                       |
-| <kbd>Shift</kbd> + <kbd>F3</kbd>                             | 查找上一个                       |
-| <kbd>Alt</kbd> + <kbd>Enter</kbd>                            | 选择所有的匹配                   |
+| <kbd>F3</kbd>                                                | ==查找下一个==                   |
+| <kbd>Shift</kbd> + <kbd>F3</kbd>                             | ==查找上一个==                   |
+| <kbd>Alt</kbd> + <kbd>Enter</kbd>                            | ==选择所有的匹配==               |
 | <kbd>Ctrl</kbd> + <kbd>D</kbd>                               | 将选择添加到下一个查找匹配项     |
 | <kbd>Ctrl</kbd> + <kbd>K</kbd>，<kbd>Ctrl</kbd> + <kbd>D</kbd> | 将上一个选择移到下一个查找匹配项 |
 | <kbd>Alt</kbd> + <kbd>C</kbd>                                | 切换是否区分大小写               |
@@ -89,9 +89,9 @@
 | <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>↓</kbd>              | 在下方插入光标               |
 | <kbd>Ctrl</kbd> + <kbd>U</kbd>                               | 撤消上一个光标操作           |
 | <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>I</kbd>             | 在所选的每一行的末尾插入光标 |
-| <kbd>Ctrl</kbd> + <kbd>L</kbd>                               | 选择当前行                   |
-| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>L</kbd>            | 选择所有当前选择             |
-| <kbd>Ctrl</kbd> + <kbd>F2</kbd>                              | 选择所有出现的当前单词       |
+| <kbd>Ctrl</kbd> + <kbd>L</kbd>                               | ==选择当前行==               |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>L</kbd>            | ==选择所有当前选择==         |
+| <kbd>Ctrl</kbd> + <kbd>F2</kbd>                              | ==选择所有出现的当前单词==   |
 | <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>→</kbd>             | 扩展选择                     |
 | <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>←</kbd>             | 收缩选择                     |
 | <kbd>Shift</kbd> + <kbd>Alt</kbd> + (拖曳鼠标)               | 列（框）选择                 |
@@ -101,48 +101,48 @@
 
 ### 代码编辑
 
-| 快捷键                                                       | 说明               |
-| ------------------------------------------------------------ | ------------------ |
-| <kbd>Ctrl</kbd> + <kbd>Space</kbd>                           | 显示成员列表       |
-| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Space</kbd>        | 显示参数提示       |
-| <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>F</kbd>             | 格式化代码         |
-| <kbd>Ctrl</kbd> + <kbd>K</kbd>，<kbd>Ctrl</kbd> + <kbd>F</kbd> | 格式化选择         |
-| <kbd>F12</kbd>                                               | 转到定义           |
-| <kbd>Alt</kbd> + <kbd>F12</kbd>                              | 查看定义           |
-| <kbd>Ctrl</kbd> + <kbd>K</kbd>，<kbd>F12</kbd>               | 在侧面打开定义     |
-| <kbd>Ctrl</kbd> + <kbd>.</kbd>                               | 快速修复           |
-| <kbd>Shift</kbd> + <kbd>F12</kbd>                            | 显示参考           |
-| <kbd>F2</kbd>                                                | 重命名符号         |
-| <kbd>Ctrl</kbd> + <kbd>K</kbd>，<kbd>Ctrl</kbd> + <kbd>X</kbd> | 删除每一行行尾空格 |
-| <kbd>Ctrl</kbd> + <kbd>K</kbd>，<kbd>M</kbd>                 | 切换代码语言       |
+| 快捷键                                                       | 说明                   |
+| ------------------------------------------------------------ | ---------------------- |
+| <kbd>Ctrl</kbd> + <kbd>Space</kbd>                           | 显示成员列表           |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Space</kbd>        | 显示参数提示           |
+| <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>F</kbd>             | ==格式化代码==         |
+| <kbd>Ctrl</kbd> + <kbd>K</kbd>，<kbd>Ctrl</kbd> + <kbd>F</kbd> | 格式化选择             |
+| <kbd>F12</kbd>                                               | ==转到定义==           |
+| <kbd>Alt</kbd> + <kbd>F12</kbd>                              | ==查看定义==           |
+| <kbd>Ctrl</kbd> + <kbd>K</kbd>，<kbd>F12</kbd>               | ==在侧面打开定义==     |
+| <kbd>Ctrl</kbd> + <kbd>.</kbd>                               | 快速修复               |
+| <kbd>Shift</kbd> + <kbd>F12</kbd>                            | 显示参考               |
+| <kbd>F2</kbd>                                                | ==重命名符号==         |
+| <kbd>Ctrl</kbd> + <kbd>K</kbd>，<kbd>Ctrl</kbd> + <kbd>X</kbd> | ==删除每一行行尾空格== |
+| <kbd>Ctrl</kbd> + <kbd>K</kbd>，<kbd>M</kbd>                 | 切换代码语言           |
 
 ### 编辑器管理
 
-| 快捷键                                                       | 说明                     |
-| ------------------------------------------------------------ | ------------------------ |
-| <kbd>Ctrl</kbd> + <kbd>F4</kbd>，<kbd>Ctrl</kbd> + <kbd>W</kbd> | 关闭编辑器               |
-| <kbd>Ctrl</kbd> + <kbd>K</kbd>，<kbd>F</kbd>                 | 关闭文件夹               |
-| <kbd>Ctrl</kbd> + <kbd> \ </kbd>                             | 分割编辑器               |
-| <kbd>Ctrl</kbd> + <kbd>1</kbd>                               | 让第一编辑器组获取焦点   |
-| <kbd>Ctrl</kbd> + <kbd>2</kbd>                               | 让第二编辑器组获取焦点   |
-| <kbd>Ctrl</kbd> + <kbd>3</kbd>                               | 让第三编辑器组获取焦点   |
-| <kbd>Ctrl</kbd> + <kbd>K</kbd>，<kbd>Ctrl</kbd> + <kbd>←</kbd> | 让上一个编辑器组获取焦点 |
-| <kbd>Ctrl</kbd> + <kbd>K</kbd>，<kbd>Ctrl</kbd> + <kbd>→</kbd> | 让下一个编辑器组获取焦点 |
-| <kbd>Ctrl</kbd> + <kbd>K</kbd>，<kbd>←</kbd>                 | 向左移动当前编辑器组     |
-| <kbd>Ctrl</kbd> + <kbd>K</kbd>，<kbd>→</kbd>                 | 向右移动当前编辑器组     |
-| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>PgUp</kbd>         | 向左移动编辑器           |
-| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>PgDn</kbd>         | 向右移动编辑器           |
+| 快捷键                                                       | 说明                       |
+| ------------------------------------------------------------ | -------------------------- |
+| <kbd>Ctrl</kbd> + <kbd>F4</kbd>，<kbd>Ctrl</kbd> + <kbd>W</kbd> | 关闭编辑器                 |
+| <kbd>Ctrl</kbd> + <kbd>K</kbd>，<kbd>F</kbd>                 | 关闭文件夹                 |
+| <kbd>Ctrl</kbd> + <kbd> \ </kbd>                             | ==分割编辑器==             |
+| <kbd>Ctrl</kbd> + <kbd>1</kbd>                               | ==让第一编辑器组获取焦点== |
+| <kbd>Ctrl</kbd> + <kbd>2</kbd>                               | ==让第二编辑器组获取焦点== |
+| <kbd>Ctrl</kbd> + <kbd>3</kbd>                               | ==让第三编辑器组获取焦点== |
+| <kbd>Ctrl</kbd> + <kbd>K</kbd>，<kbd>Ctrl</kbd> + <kbd>←</kbd> | 让上一个编辑器组获取焦点   |
+| <kbd>Ctrl</kbd> + <kbd>K</kbd>，<kbd>Ctrl</kbd> + <kbd>→</kbd> | 让下一个编辑器组获取焦点   |
+| <kbd>Ctrl</kbd> + <kbd>K</kbd>，<kbd>←</kbd>                 | 向左移动当前编辑器组       |
+| <kbd>Ctrl</kbd> + <kbd>K</kbd>，<kbd>→</kbd>                 | 向右移动当前编辑器组       |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>PgUp</kbd>         | 向左移动编辑器             |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>PgDn</kbd>         | 向右移动编辑器             |
 
 ### 文件管理
 
 | 快捷键                                                       | 说明                            |
 | ------------------------------------------------------------ | ------------------------------- |
-| <kbd>Ctrl</kbd> + <kbd>N</kbd>                               | 新建文件                        |
-| <kbd>Ctrl</kbd> + <kbd>O</kbd>                               | 打开文件...                     |
+| <kbd>Ctrl</kbd> + <kbd>N</kbd>                               | ==新建文件==                    |
+| <kbd>Ctrl</kbd> + <kbd>O</kbd>                               | ==打开文件...==                 |
 | <kbd>Ctrl</kbd> + <kbd>S</kbd>                               | 保存文件                        |
-| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>S</kbd>            | 文件另存为...                   |
-| <kbd>Ctrl</kbd> + <kbd>K</kbd>，<kbd>S</kbd>                 | 保存全部                        |
-| <kbd>Ctrl</kbd> + <kbd>F4</kbd>                              | 关闭文件                        |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>S</kbd>            | ==文件另存为...==               |
+| <kbd>Ctrl</kbd> + <kbd>K</kbd>，<kbd>S</kbd>                 | ==保存全部==                    |
+| <kbd>Ctrl</kbd> + <kbd>F4</kbd>                              | ==关闭文件==                    |
 | <kbd>Ctrl</kbd> + <kbd>K</kbd>，<kbd>Ctrl</kbd> + <kbd>W</kbd> | 关闭所有文件                    |
 | <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>T</kbd>            | 重新打开关闭的编辑器            |
 | <kbd>Ctrl</kbd> + <kbd>K</kbd>，<kbd>Enter</kbd>             | 保持预览模式编辑器处于打开状态  |
@@ -154,51 +154,51 @@
 
 ### 显示
 
-| 快捷键           | 说明                         |
-| ---------------- | ---------------------------- |
-| <kbd>F11</kbd>   | 切换全屏                     |
-| Shift + Alt + 0  | 切换编辑器布局（水平/垂直）  |
-| Ctrl + =         | 放大编辑器                   |
-| Ctrl + -         | 缩小编辑器                   |
-| Ctrl + B         | 显示/隐藏侧边栏              |
-| Ctrl + Shift + E | 显示资源管理器/切换焦点      |
-| Ctrl + Shift + F | 显示查找                     |
-| Ctrl + Shift + G | 显示源代码控制               |
-| Ctrl + Shift + D | 显示调试                     |
-| Ctrl + Shift + X | 显示扩展                     |
-| Ctrl + Shift + H | 在文件中替                   |
-| Ctrl + Shift + J | 切换搜索详细信息             |
-| Ctrl + Shift + U | 显示输出面板                 |
-| Ctrl + Shift + V | 打开Markdown预览             |
-| Ctrl + K，V      | 在侧面打开Markdown预览       |
-| Ctrl + K，Z      | 禅宗模式（按 2 次 Esc 退出） |
+| 快捷键                                            | 说明                         |
+| ------------------------------------------------- | ---------------------------- |
+| <kbd>F11</kbd>                                    | 切换全屏                     |
+| <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>0</kbd>  | 切换编辑器布局（水平/垂直）  |
+| <kbd>Ctrl</kbd> + <kbd>=</kbd>                    | ==放大编辑器==               |
+| <kbd>Ctrl</kbd> + <kbd>-</kbd>                    | ==缩小编辑器==               |
+| <kbd>Ctrl</kbd> + <kbd>B</kbd>                    | ==显示/隐藏侧边栏==          |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>E</kbd> | ==显示资源管理器/切换焦点==  |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>F</kbd> | ==显示查找==                 |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>G</kbd> | ==显示源代码控制==           |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>D</kbd> | ==显示调试==                 |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>X</kbd> | ==显示扩展==                 |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>H</kbd> | 在文件中替                   |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>J</kbd> | 切换搜索详细信息             |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>U</kbd> | ==显示输出面板==             |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>V</kbd> | ==打开Markdown预览==         |
+| <kbd>Ctrl</kbd> + <kbd>K</kbd>，<kbd>V</kbd>      | ==在侧面打开Markdown预览==   |
+| <kbd>Ctrl</kbd> + <kbd>K</kbd>，<kbd>Z</kbd>      | 禅宗模式（按 2 次 Esc 退出） |
 
 ### Debug调试
 
-| 快捷键             | 说明      |
-| ------------------ | --------- |
-| F9                 | 插入断点  |
-| F5                 | 开始/继续 |
-| Shift + F5         | 停止      |
-| F11                | 步进      |
-| Shift + F11        | 步出      |
-| F10                | 步过      |
-| Ctrl + K，Ctrl + I | 显示悬停  |
+| 快捷键                                                       | 说明         |
+| ------------------------------------------------------------ | ------------ |
+| <kbd>F9</kbd>                                                | ==插入断点== |
+| <kbd>F5</kbd>                                                | 开始/继续    |
+| <kbd>Shift</kbd> + <kbd>F5</kbd>                             | ==停止==     |
+| <kbd>F11</kbd>                                               | ==步进==     |
+| <kbd>Shift</kbd> + <kbd>F11</kbd>                            | ==步出==     |
+| <kbd>F10</kbd>                                               | ==步过==     |
+| <kbd>Ctrl</kbd> + <kbd>K</kbd>，<kbd>Ctrl</kbd> + <kbd>I</kbd> | 显示悬停     |
 
 ### 终端 (Terminal)
 
-| 快捷键           | 说明           |
-| ---------------- | -------------- |
-| Ctrl + `         | 显示集成终端   |
-| Ctrl + Shift + ` | 创建新终端     |
-| Ctrl + C         | 复制选择       |
-| Ctrl + V         | 粘贴到活动终端 |
-| Ctrl + ↑         | 向上滚动       |
-| Ctrl + ↓         | 向下滚动       |
-| Shift + PgUp     | 向上滚动页面   |
-| Shift + PgDn     | 向下滚动页面   |
-| Ctrl + Home      | 滚动到顶部     |
-| Ctrl + End       | 滚动到底部     |
+| 快捷键                                            | 说明             |
+| ------------------------------------------------- | ---------------- |
+| <kbd>Ctrl</kbd> + <kbd>`</kbd>                    | ==显示集成终端== |
+| <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>`</kbd> | ==创建新终端==   |
+| <kbd>Ctrl</kbd> + <kbd>C</kbd>                    | 复制选择         |
+| <kbd>Ctrl</kbd> + <kbd>V</kbd>                    | 粘贴到活动终端   |
+| <kbd>Ctrl</kbd> + <kbd>↑</kbd>                    | 向上滚动         |
+| <kbd>Ctrl</kbd> + <kbd>↓</kbd>                    | 向下滚动         |
+| <kbd>Shift</kbd> + <kbd>PgUp</kbd>                | ==向上滚动页面== |
+| <kbd>Shift</kbd> + <kbd>PgDn</kbd>                | ==向下滚动页面== |
+| <kbd>Ctrl</kbd> + <kbd>Home</kbd>                 | ==滚动到顶部==   |
+| <kbd>Ctrl</kbd> + <kbd>End</kbd>                  | ==滚动到底部==   |
 
 
 
